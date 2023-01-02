@@ -1,2 +1,2 @@
 # githubApi
-APİ , Class , Promise
+API , Class , Promise
